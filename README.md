@@ -62,6 +62,7 @@ Lab1
   data/ # датасет Stanford Dogs
   plots/ # графики 
   main.py # код обучения и оценки
+  requirements.txt
   README.md
 
 
